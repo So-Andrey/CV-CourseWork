@@ -1,0 +1,20 @@
+[project]
+name = "cv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cloudpickle>=3.1.1",
+    "fvcore>=0.1.5.post20221221",
+    "jupyterlab>=4.4.3",
+    "kaggle>=1.7.4.5",
+    "matplotlib>=3.10.3",
+    "omegaconf>=2.3.0",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.0",
+    "pycocotools>=2.0.10",
+    "tensorboard>=2.19.0",
+    "tifffile>=2025.6.11",
+    "torchvision>=0.22.1",
+]
